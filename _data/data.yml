@@ -226,7 +226,7 @@ skills:
   - title: Languages
     value: "C#, Java, TypeScript, JavaScript, GoLang, Python, VB, SQL"
   - title: Frameworks
-    value: ".NET, Angular, ReactJs, VueJs, RxjJS, Spring Boot, BeeGo, jQuery, Jekyll"
+    value: ".NET, Angular, ReactJs, VueJs, RxjJS, Spring Boot, jQuery, Jekyll"
   - title: Tools
     value: "Windows, Mac OS, Redux, Visual Studio, VS Code, Agile, Scrum, SAFe"
   - title: Operations
